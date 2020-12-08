@@ -1,0 +1,23 @@
+body{background-color: lightblue}
+#x{color: lightblue}
+.title{background-color: green; line-height: 200%; font-family: serif arial; margin: 0px auto; color: lightgreen; }
+.e{border-width: 50px;}
+#o{border-style: dotted solid dashed none;}
+.table{table-layout: fixed}
+.v2{color: deeppink}
+.ver2{width: 50%}
+.a{border-style: dotted none none; border-width: 20px; width: 50%}
+.b{border-width: 20px}
+.img{height: 150px; weight: 150px;}
+.ver3{border: 1px solid green; width: 60%}
+td{border: 1px dashed red;}
+.z{width: 60%}
+.l{width: 100px}
+.x{width: 70px}
+.contact{line-height: 2rem}
+.button{
+  font-size: 20px;
+  background-color: black;
+  color: white;
+  border-radius: 10px
+}
